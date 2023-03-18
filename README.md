@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/39970879/149367001-9473ca16-c69a-4d88-962f-64525957230b.gif)](https://rohitranjan753.github.io/RohitRanjanPortfolio.github.io/)
 <h1 align="center">Hi 👋, I'm Rohit Ranjan</h1>
 <h3 align="center">A passionate android developer using Flutter & Java technology from India.</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitranjan753&label=Profile%20views&color=0e75b6&style=flat" alt="rohitranjan753" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitranjan753" alt="rohitranjan753" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitranjan753" alt="rohitranjan753" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
