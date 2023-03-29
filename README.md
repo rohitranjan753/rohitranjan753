@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://rohitranjan753.github.io/RohitRanjanPortfolio.github.io/](https://rohitranjan753.github.io/RohitRanjanPortfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://rohitranjan753.github.io/RohitRanjanPortfolio.github.io/](https://rohitranjan753.github.io/RohitRanjanPortfolio/)
 
 - 📫 How to reach me **rohitranjan0753@gmail.com**
 
