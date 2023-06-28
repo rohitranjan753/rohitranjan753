@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rohitranjan0753@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1WGkr8xmrYSkutoH9wvqVaSJa1aHMmBL0/view?usp=share_link](https://drive.google.com/drive/folders/1-jppZ0cZ7cAAlKaXgOeZ15SBOgM41DpI?usp=sharing))
+- 📄 Know about my experiences [Resume]((https://drive.google.com/drive/folders/1-jppZ0cZ7cAAlKaXgOeZ15SBOgM41DpI?usp=sharing]))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
