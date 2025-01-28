@@ -11,13 +11,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as a Software developer in Mitt Arv using Flutter, React.js, Node.js, SQL as tech stack
 
 - 👨‍💻 All of my projects are available at [https://rohitranjan753.github.io/RohitRanjanPortfolio/](https://rohitranjan753.github.io/RohitRanjanPortfolio/)
 
 - 📫 How to reach me **rohitranjan0753@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-jppZ0cZ7cAAlKaXgOeZ15SBOgM41DpI?usp=sharing])
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/180frZBZ4Bca5oxvubjnnSchxApwHvh9b/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
