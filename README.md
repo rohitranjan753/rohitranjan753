@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working as a Software developer in Mitt Arv using Flutter, React.js, Node.js, SQL as tech stack
 
-- 👨‍💻 All of my projects are available at [https://rohitranjan753.github.io/RohitRanjanPortfolio/](https://rohitranjan753.github.io/RohitRanjanPortfolio/)
+- 👨‍💻 All of my projects are available at [[https://therohitranjan.co.in/](https://therohitranjan.co.in/)
 
 - 📫 How to reach me **rohitranjan0753@gmail.com**
 
