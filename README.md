@@ -1,33 +1,253 @@
-[![MasterHead](https://user-images.githubusercontent.com/39970879/149367001-9473ca16-c69a-4d88-962f-64525957230b.gif)](https://rohitranjan753.github.io/RohitRanjanPortfolio.github.io/)
-<h1 align="center">Hi 👋, I'm Rohit Ranjan</h1>
-<!-- <h3 align="center">A passionate Software developer from India.</h3> -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitranjan753&label=Profile%20views&color=0e75b6&style=flat" alt="rohitranjan753" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:92FE9D&height=260&section=header&text=Rohit%20Ranjan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Engineer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=58"/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitranjan753" alt="rohitranjan753" /></a> </p> -->
+<h1>Hi 👋, I'm Rohit Ranjan</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-- 🌱 I’m currently working as a Software developer in Mitt Arv using Flutter, React.js, Node.js, SQL as tech stack
-
-- 👨‍💻 All of my projects are available at [Rohit Ranjan](https://therohitranjan.co.in/)
-
-- 📫 How to reach me **rohitranjan0753@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/180frZBZ4Bca5oxvubjnnSchxApwHvh9b/view?usp=sharing])
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohitranjan753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitranjan753" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohitgns54321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohitgns54321" height="30" width="40" /></a>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Engineer;Cross-Platform+Developer;Building+AI+Powered+Applications;Windows+%7C+Android+%7C+Web;Computer+Vision+with+TensorFlow+Lite;GitHub+Actions+CI%2FCD;Open+Source+Contributor;Always+Learning+🚀"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://therohitranjan.co.in">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitranjan753&show_icons=true&locale=en&layout=compact" alt="rohitranjan753" /></p>
+<a href="https://linkedin.com/in/rohitranjan753">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitranjan753&show_icons=true&locale=en" alt="rohitranjan753" /></p>
+<a href="mailto:rohitranjan0753@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitranjan753&" alt="rohitranjan753" /></p>
+<a href="https://github.com/rohitranjan753">
+<img src="https://img.shields.io/github/followers/rohitranjan753?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=rohitranjan753&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```typescript
+const rohit = {
+    role: "Software Engineer",
+    location: "India 🇮🇳",
+
+    code: [
+        "Flutter",
+        "Dart",
+        "Node.js",
+        "Firebase",
+        "Supabase",
+        "PostgreSQL"
+    ],
+
+    architecture: [
+        "Bloc",
+        "Clean Architecture",
+        "MVVM",
+        "CI/CD"
+    ],
+
+    currentlyBuilding: [
+        "Cross Platform Apps",
+        "Windows Applications",
+        "Computer Vision",
+        "Developer Tools"
+    ],
+
+    technologies: {
+        mobile: ["Flutter", "Android"],
+        backend: ["Node.js", "Firebase", "Supabase"],
+        databases: ["PostgreSQL", "MySQL", "SQLite"],
+        ai: ["YOLO", "TensorFlow Lite"],
+        devops: ["GitHub Actions"],
+    },
+
+    funFact: "I love turning complex ideas into polished products 🚀"
+};
+```
+
+---
+
+# 🚀 What I'm Working On
+
+- 📱 Cross-platform Flutter Applications
+- 🖥️ Windows Desktop Apps
+- 🌐 Responsive Flutter Web
+- 🤖 Computer Vision with TensorFlow Lite
+- ⚙️ GitHub Actions CI/CD
+- 📦 Flutter Open Source Packages
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,express,postgres,mysql,git,github,linux,vscode,androidstudio,figma,python,tensorflow&perline=8"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 QuickBill
+
+Smart self-checkout platform for retail stores.
+
+- Flutter
+- Node.js
+- QR Verification
+- Inventory
+- Razorpay
+- Analytics
+
+</td>
+
+<td width="50%">
+
+### 💎 Sparkle Retail
+
+Retail application for jewellery stores.
+
+- Android
+- Web
+- Windows
+- Offline Support
+- Authentication
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🤖 Weight Detection AI
+
+Computer Vision pipeline built using
+
+- YOLO
+- TensorFlow Lite
+- Flutter
+
+Automatic weight recognition completely offline.
+
+</td>
+
+<td>
+
+### 📦 Open Source
+
+Published Flutter packages
+
+- TickTock
+- pancard_scanner
+
+Helping improve Flutter ecosystem.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitranjan753&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitranjan753&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rohitranjan753&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitranjan753&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Built production-ready Flutter applications
+
+📦 Published Flutter packages on pub.dev
+
+🤖 Integrated AI models into Flutter applications
+
+⚡ Automated deployments using GitHub Actions
+
+🖥️ Developed Windows desktop applications
+
+🌍 Passionate about Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rohitranjan0753@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rohitranjan753">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://therohitranjan.co.in">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohitranjan753">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rohitranjan753/rohitranjan753/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software isn't just about writing code—it's about creating experiences that matter."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
